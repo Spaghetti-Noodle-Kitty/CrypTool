@@ -20,6 +20,7 @@
 > * If the developer provided you with a SHA256-hash, press the [Compare SHA256] button
 >
 > If the file was validated, the Output-textbox will show ```"Validated: Success"``` at the bottom.
+> 
 > If the file was tampered with or damaged, the Output-textbox will show ```"Validated: Failure"``` at the bottom
 > * If you want to save this comparison, press the [Save Output] button and export the comparison as a TXT
 
